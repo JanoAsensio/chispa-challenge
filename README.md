@@ -9,6 +9,8 @@ Proyect developed by Jano Asensio with
 
 # Start development mode
 
+$ npm install
+
 $ npm run dev
 
 # Start production mode

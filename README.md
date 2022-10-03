@@ -1,6 +1,6 @@
 Proyect developed by Jano Asensio with
 
-- React v17
+- React v18
 - NextJS v12
 - TypeScript v4.8
 - React-Query v4.8
